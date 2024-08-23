@@ -1,0 +1,12 @@
+colorama
+itertools
+os
+sys
+subprocess
+time
+tqdm
+gTTS
+pygame
+game_data
+random
+threading
